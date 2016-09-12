@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <title>Ping Pong</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Your Ping Pong Set</h1>
+      <ul>
+        {% for result in results %}
+        <li>
+          {{ result }}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </body>
+</html>
