@@ -2,7 +2,7 @@
 
 #### _A form where user enters any number to get ping ponged 9/12/2016_
 
-#### By _**Nicolas Hurtado & Zach Hedgepeth**_
+#### By _**Nicolas Hurtado**_
 
 ## Description
 
@@ -36,6 +36,7 @@ _Program lists number/s inputted by user, with number divisible by 15 replaced w
 * _Navigate to my ping-pong repository_
 * _Copy and paste url in top right_
 * _Open terminal, type "git clone 'url'"_
+* _Run composer install on your terminal_
 * _Navigate to web folder, and type "php -S localhost:8000" - to make it your document root_
 * _Run composer install in terminal_
 * _To view in local browser, type - "localhost:8000" - in navigation bar_
@@ -60,4 +61,4 @@ _{Atom, HTML, CSS, JavaScript, JQuery, loops, arrays, mad coding skilzzz}_
 
 *Epicodus License*
 
-Copyright (c) 2016 **_{Nicolas Hurtado & Zachary Hedgepeth}_**
+Copyright (c) 2016 **_Nicolas Hurtado_**
